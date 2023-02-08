@@ -1,19 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: This is the homepage 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
-This is a test [placeholder1]({{ site.baseurl }}/about2)
-
-
-This is a second test [placeholder2]({{ site.baseurl }}/placeholder2)
-
-
-
-There's two ways to go about it. I'll list every item here, so i
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository]({{ site.baseurl }}/images/config.png) on GitHub.
+Since there are a lot of different parameter configurations, I made it so you can just check all snapshots for [L = 80]({{ site.baseurl }}/placeholder1), [L = 90]({{ site.baseurl }}/placeholders/placeholder2), [L = 120]({{ site.baseurl }}/placeholders/placeholder3), [L = 240]({{ site.baseurl }}/placeholders/placeholder4),[L = 80]({{ site.baseurl }}/placeholders/placeholder5). Alternatively, you can also check all snapshots for [N = 1000]({{ site.baseurl }}/placeholders/placeholder6),  [N = 2000]({{ site.baseurl }}/placeholders/placeholder7),  [N = 4000]({{ site.baseurl }}/placeholders/placeholder8),  [N = 5000]({{ site.baseurl }}/placeholders/placeholder9) or  [N = 10000]({{ site.baseurl }}/placeholders/placeholder10). 
