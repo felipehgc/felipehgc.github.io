@@ -7,5 +7,13 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+
+This is a test ![placeholder1]({{ site.baseurl }}/about2)
+
+
+This is a second test ![placeholder2]({{ site.baseurl }}/placeholder2)
+
+
+
 There's two ways to go about it. I'll list every item here, so i
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the ![Jekyll Now repository]({{ site.baseurl }}/images/config.png){:target="_blank"} on GitHub.
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the ![Jekyll Now repository]({{ site.baseurl }}/images/config.png) on GitHub.
