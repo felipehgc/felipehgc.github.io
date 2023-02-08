@@ -8,16 +8,19 @@ permalink: /placeholder1
 <details>
   <summary>Click me</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  
+  teste1
+  
+</details>
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+
+
+<details>
+  <summary>Click me 2</summary>
+  
+  
+  teste2
+  
+  [<img src="{{ site.baseurl }}/images/N1000L80rzero1.2r10.0rtheta0.1.png"  style="width: 400px;"/>]({{ site.baseurl }}/)
+  
 </details>
