@@ -1,4 +1,6 @@
+
 ---
+datatable: true
 layout: page
 title: 404 - Page not found
 permalink: /placeholder1
